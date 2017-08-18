@@ -1,0 +1,26 @@
+.inner
+{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    position: relative;
+    background-color: #FFFFFF;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+}
+
+body {
+    background-color: #B1B1B1;
+}
+
+.profile img {
+    margin-top:40px;
+    width: 160px;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.inner hr {
+    border: none;
+    border-top: #979797 5px solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
