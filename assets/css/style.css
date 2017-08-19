@@ -1,8 +1,6 @@
-
-
-.back
+#back
 {
-    background-color: #bd5e5e;
+    background-color: #f4f4f4;
 }
 
 .inner
@@ -15,7 +13,7 @@
     padding: 30px 20px;
 }
 
-.profile img
+#profile img
 {
     margin-top: 40px;
     width: 160px;
@@ -39,3 +37,7 @@
     color: #363636;
 }
 
+.url{
+
+    margin-left: 5px;
+}
